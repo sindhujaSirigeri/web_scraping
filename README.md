@@ -13,8 +13,8 @@ For the second deliverable, we scrape and analyze Mars weather data, which is pr
 
 ### Technical Details
 ### Tools Used:
-Python: We use Python programming language for web scraping and data analysis tasks.
-Splinter: Splinter is used for automated browsing of web pages.
-Beautiful Soup: Beautiful Soup is employed for HTML parsing and data extraction.
-Pandas: Pandas library is utilized for data manipulation and analysis.
-Matplotlib: Matplotlib is used for data visualization, allowing us to create informative charts and graphs.
+* Python: We use Python programming language for web scraping and data analysis tasks.
+* Splinter: Splinter is used for automated browsing of web pages.
+* Beautiful Soup: Beautiful Soup is employed for HTML parsing and data extraction.
+* Pandas: Pandas library is utilized for data manipulation and analysis.
+* Matplotlib: Matplotlib is used for data visualization, allowing us to create informative charts and graphs.
